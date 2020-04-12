@@ -1,3 +1,18 @@
+# My build of dmenu
+## Applied patches
+- dmenu-border
+- dmenu-center
+- dmenu-fuzzymatch
+- dmenu-highlight
+- dmenu-lineheight
+- dmenu-morecolor
+- dmenu-numbers
+- dmenu-rejectnomatch
+
+## My changes
+- Change color
+
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
